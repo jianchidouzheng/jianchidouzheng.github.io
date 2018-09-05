@@ -84,3 +84,7 @@ title: 徐忠良师弟杨少强：马列主义似骄阳，吾辈少年当自强�
 
 加入联署抗议请发送【姓名+职务】至邮箱：jiashilianming@gmail.com
 
+![少强][1]
+
+
+  [1]: https://i.loli.net/2018/09/05/5b8feb77cc5d2.jpg
