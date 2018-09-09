@@ -1,4 +1,11 @@
-
+---
+published: true
+layout: post
+tags:
+  - 声援团
+comments: true
+title:
+---
 
 1976年9月9日，一颗伟大的心脏停止了跳动。
 他来，改天换地，为革命牺牲六位亲人；
